@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        As an analytical Information Security Analyst turned Data Analyst, 
+        As a former top Information Security Analyst turned Data Analyst, 
         I extract and analyze complex data sets to develop visual reports
         that inform data-driven decisions with security in mind. With expertise
         in database methodologies, statistical analysis, and cyber security, I've 
