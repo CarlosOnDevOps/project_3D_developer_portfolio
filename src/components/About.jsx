@@ -47,11 +47,14 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        As an analytical Information Security Analyst turned Data Analyst, 
+        I extract and analyze complex data sets to develop visual reports
+        that inform data-driven decisions with security in mind. With expertise
+        in database methodologies, statistical analysis, and cyber security, I've 
+        been known to excel at solving problems and providing valuable insights to business 
+        stakeholders. As a data-savvy and security-minded professional, I offer a unique 
+        combination of skills that enables me to think creatively and critically. 
+        Let's talk if you're looking for someone who can help you leverage data for better decision-making!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
